@@ -5,3 +5,4 @@ yfinance
 litellm
 litellm[proxy]
 streamlit
+openai
