@@ -4,3 +4,4 @@ python-dotenv
 yfinance
 litellm
 litellm[proxy]
+streamlit
